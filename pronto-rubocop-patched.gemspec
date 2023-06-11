@@ -56,6 +56,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency('rspec-its', '~> 1.2')
 
 
-  spec.add_runtime_dependency('pronto', '~> 0.11.0')
+  spec.add_runtime_dependency('pronto', '0.8.2')
   spec.add_runtime_dependency('rubocop', '1.50')
 end
