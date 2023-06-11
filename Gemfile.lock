@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    pronto-rubocop-patched (0.1.0)
+    pronto-rubocop-patched (0.1.1)
       pronto (~> 0.11.0)
       rubocop (~> 1.50, >= 1.50.2)
 
