@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = 'Pronto runner for Rubocop with patched version Ruby 2.6.10'
   spec.description   = 'Pronto runner for Rubocop with patched version Ruby 2.6.10'
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage = 'http://github.com/mmozuras/pronto-rubocop'
   spec.licenses = ['MIT']
   spec.required_ruby_version = '>= 2.3.0'
   spec.rubygems_version = '1.8.23'
